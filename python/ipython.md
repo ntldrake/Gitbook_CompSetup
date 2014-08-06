@@ -24,4 +24,4 @@
 ```
 After you hit enter on ipython notebook, it will open up a Chrome tab. Your notebook will be empty the first time.
 
-![](../images/ipython_dashboard.jpg)
+![ipython](../images/IPython_Dashboard.jpg)
