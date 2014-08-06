@@ -1,0 +1,36 @@
+{
+    "title": "Analytics Computer Setup",
+    "description": "",
+    "extension": null,
+    "github": "ntldrake",
+    "githubHost": "https://github.com/",
+    "plugins": [
+        "comscore"
+    ],
+    "links": {
+        "home": "http://www.ntldrake.com",
+        "about": null,
+        "issues": "https://github.com/ntldrake/Gitbook_CompSetup/issues",
+        "contribute": "https://github.com/ntldrake/Gitbook_CompSetup",
+        "custom": {
+            "Home": "http://www.ntldrake.com"
+        },
+        "sharing": {
+            "google": null,
+            "facebook": "http://www.facebook.com/ntldrake",
+            "twitter": "http://www.twitter.com/ntldrake"
+        }
+    },
+    "pdf": {
+        "toc": true,
+        "pageNumbers": false,
+        "fontSize": 12,
+        "paperSize": "a4",
+        "margin": {
+            "right": 62,
+            "left": 62,
+            "top": 36,
+            "bottom": 36
+        }
+    }
+}

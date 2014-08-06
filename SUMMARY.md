@@ -9,4 +9,12 @@
    * [Clone First Repo](git/clone_first_repo.md)
    * [Global Git Settings](git/global_git_settings.md)
    * [Git Best Practices](git/git_best_practices.md)
+* [Python](python/README.md)
+   * [Download](python/download.md)
+   * [Pip](python/pip.md)
+   * [Virtualenv](python/virtualenv.md)
+       * [Docker Alternative](python/docker_alternative.md)
+   * [IDEs](python/ides.md)
+       * [PyCharm](python/pycharm.md)
+       * [iPython](python/ipython.md)
 

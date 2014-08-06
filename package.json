@@ -1,0 +1,13 @@
+{
+    "name": "Analytics-Comp-Setup",
+    "version": "0.0.1",
+    "description": "",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ntldrake/Gitbook_CompSetup.git"
+    },
+    "author": "Me ntldrake@gmail.com",
+    "dependencies": {
+        "gitbook-theme-comscore": "0.0.3"
+    }
+}
